@@ -1,3 +1,8 @@
+# GymManager-react
+React application developed in order to get familiar with the framework.
+
+![sample 1](readme/img1.jpg)
+
 # Getting Started with Create React App
 
 GymManager-react was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
